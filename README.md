@@ -1,5 +1,5 @@
 # Web Scraping Daycare List in Toronto
-A common way to gather data off the web is to scrape it! Use beautifulsoup to grab some daycare data off the toronto.ca website.
+A common way to gather data off the web is to scrape it! In this project, use beautifulsoup to grab some daycare data off the toronto.ca website.
 
 https://www.toronto.ca/data/children/dmc/a2z/a2za.html - a comprehensive list of licensed day cares in Toronto.
 
