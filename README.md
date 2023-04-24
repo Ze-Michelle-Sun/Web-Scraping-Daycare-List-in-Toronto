@@ -7,7 +7,7 @@ https://www.toronto.ca/data/children/dmc/a2z/a2za.html - a comprehensive list of
 
 - Use the python packages “requests” and “BeautifulSoup” in order to scrape the above URL to get the daycare name and address. Save the results into a pandas dataframe and save it as results.csv for later use.
 
-- Pandas data frame should consist of the following info:
+- Pandas data frame should consist of the following information:
 
     - Name of Daycare
     - Address of Daycare
