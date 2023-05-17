@@ -1,3 +1,4 @@
+![image](https://github.com/Ze-Michelle-Sun/Web-Scraping-Daycare-List-in-Toronto/assets/110506170/7ccf7d5a-6746-496b-933a-9d2f033b0432)
 # Web Scraping Daycare List in Toronto
 A common way to gather data off the web is to scrape it! In this project, use beautifulsoup to grab some daycare data off the toronto.ca website.
 
